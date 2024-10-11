@@ -1,4 +1,4 @@
-#neovim-dotfiles
+# neovim-dotfiles
 Some basic Neovim configuration heavily based on [LazyVim](https://www.lazyvim.org/). Most of the keybindings and plugins remain the same.
 
 ## Installation
